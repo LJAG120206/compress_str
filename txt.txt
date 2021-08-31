@@ -1,0 +1,13 @@
+$txt = "L'amour est toujours passion et désintéressé.
+Il n'est jamais jaloux.
+L'amour n'est ni prétentieux, ni orguuilleux.
+Il n'est jamais grossier, ni égoïste.
+Il n'est pas colérique.
+Et il n'est pas rancunier.
+L'amour ne se réjouit pas de tous les péchés d'autrui.
+Mais trouve sa joie dans l'infinité.
+Il excuse tout.
+Il croit tout.
+Il espère tout.
+Et endure tout.
+Voilà ce qu'est l'amour.";
